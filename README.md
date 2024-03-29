@@ -88,10 +88,10 @@ Cases covered:
 
 ### Requirements:
 
-Flask
-Celery (For async csv upload)
-redis (I am on windows, redis is not officially supported. I have installed in wsl and ported it to windows)
-mongodb
+* Flask
+* Celery (For async csv upload)
+* redis (I am on windows, redis is not officially supported. I have installed in wsl and ported it to windows)
+* mongodb
 
 ### How to run
 
